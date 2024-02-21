@@ -1,0 +1,7 @@
+transformers
+torch
+bert-extractive-summarizer
+joblib
+numpy
+pandas
+tdqm
